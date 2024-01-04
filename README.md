@@ -1,6 +1,6 @@
 Hi 👋 My name is Ewan Harrow 
 ============================ 
-Technical Architect slash dev - currently into messaging, MQTT, NodeJS, Java, Rust, MongoDB 
+Technical Architect & software engineer and I do a lot with messaging, MQTT, NodeJS, Java, Rust, MongoDB 
 -------------------------------------------------------------------------------------------  
 * 🌍  I'm based in London
 * 🧠  I'm learning Rust
