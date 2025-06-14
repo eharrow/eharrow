@@ -11,5 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@master
-          ACCLAIM_USER: ewan-harrow
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: ewan-harrow
