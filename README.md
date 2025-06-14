@@ -17,5 +17,5 @@ Technical Architect / Software Engineer - I do a lot of integration work with me
 
 <a href="http://www.github.com/eharrow"><img src="https://github-readme-stats.vercel.app/api?username=eharrow&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eharrow's GitHub stats" /></a>
 
-<!--START_BADGES:badges-->
-<!--END_BADGES:badges-->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
