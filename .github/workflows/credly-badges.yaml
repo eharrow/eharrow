@@ -9,8 +9,10 @@ jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Badges - Readme
+      - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: ewan-harrow
