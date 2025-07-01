@@ -16,3 +16,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: ewan-harrow
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
