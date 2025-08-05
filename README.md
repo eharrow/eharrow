@@ -15,8 +15,8 @@ Technical Architect / Software Engineer - I do a lot of integration work with me
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/765e72c1-3691-49b9-9bc1-6780d41df146" title="Shell Scripting Clinic"><img src="https://images.credly.com/size/80x80/images/e5e0cff7-b2f5-404c-845f-a9545f44a258/9ea1256b-904b-4ad9-bb4d-ed0baf2bd71f.png" alt="Shell Scripting Clinic" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/1f6a7a9e-0ada-4c56-924b-56c9293697a7" title="AI-Powered Project Management"><img src="https://images.credly.com/size/80x80/images/987eaadd-2300-411d-98f6-d54a1791456a/e4f3398f-8be8-439c-a4b4-915a57a21230.png" alt="AI-Powered Project Management" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/66373fab-c3b9-488b-8603-7192afe5ab01" title="ChatGPT for Personal Productivity"><img src="https://images.credly.com/size/80x80/images/b572ad72-3ad9-48f3-8f6f-f5007bf2fb90/469a94e2-c301-48cc-be22-a5e3cfb4f6bb.png" alt="ChatGPT for Personal Productivity" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/1f6a7a9e-0ada-4c56-924b-56c9293697a7" title="ChatGPT for PM"><img src="https://images.credly.com/size/80x80/images/a63a09f6-a711-405c-91bc-5cb405607bfe/1d766bb4-36b1-4f6a-8abb-1ab70c97f9c2.png" alt="ChatGPT for PM" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a0a66440-ac78-47e1-bf7b-0a6faa63b164" title="Concurrent Programming"><img src="https://images.credly.com/size/80x80/images/a15a2d48-7ac9-4f37-8252-b0aee88a57ca/1cc30a4c-9c04-4dd5-af8d-ce671305a3fa.png" alt="Concurrent Programming" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/24bc2b39-3388-4174-a2e4-2189f13fd440" title="Memory Efficient Java"><img src="https://images.credly.com/size/80x80/images/1ca04798-292d-4d12-bb63-efb726bbd0f2/3dfee886-e82b-479e-a979-3dec49e779fb.png" alt="Memory Efficient Java" width="80" height="80"></a>
 <!--END_SECTION:badges-->
