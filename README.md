@@ -14,10 +14,10 @@ Technical Architect / Software Engineer - I do a lot of integration work with me
 ### Badges
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/765e72c1-3691-49b9-9bc1-6780d41df146" title="Shell Scripting Clinic"><img src="https://images.credly.com/size/80x80/images/e5e0cff7-b2f5-404c-845f-a9545f44a258/9ea1256b-904b-4ad9-bb4d-ed0baf2bd71f.png" alt="Shell Scripting Clinic" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/1f6a7a9e-0ada-4c56-924b-56c9293697a7" title="AI-Powered Project Management"><img src="https://images.credly.com/size/80x80/images/adab3a27-92c3-428f-b323-ea567e22bbed/e4f3398f-8be8-439c-a4b4-915a57a21230.png" alt="AI-Powered Project Management" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/66373fab-c3b9-488b-8603-7192afe5ab01" title="ChatGPT for Personal Productivity"><img src="https://images.credly.com/size/80x80/images/a0204082-1932-43a0-9681-24d3e48a0b33/469a94e2-c301-48cc-be22-a5e3cfb4f6bb.png" alt="ChatGPT for Personal Productivity" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/a0a66440-ac78-47e1-bf7b-0a6faa63b164" title="Concurrent Programming"><img src="https://images.credly.com/size/80x80/images/a15a2d48-7ac9-4f37-8252-b0aee88a57ca/1cc30a4c-9c04-4dd5-af8d-ce671305a3fa.png" alt="Concurrent Programming" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/765e72c1-3691-49b9-9bc1-6780d41df146" title="Shell Scripting Clinic"><img src="https://images.credly.com/size/80x80/images/18493726-43db-435d-9a0f-3901ab6519d4/9ea1256b-904b-4ad9-bb4d-ed0baf2bd71f.png" alt="Shell Scripting Clinic" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/1f6a7a9e-0ada-4c56-924b-56c9293697a7" title="AI-Powered Project Management"><img src="https://images.credly.com/size/80x80/images/bfe954e6-4c61-43ba-b494-a9cd7eb38c3a/e4f3398f-8be8-439c-a4b4-915a57a21230.png" alt="AI-Powered Project Management" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/66373fab-c3b9-488b-8603-7192afe5ab01" title="ChatGPT for Personal Productivity"><img src="https://images.credly.com/size/80x80/images/b2a4bbcf-5e78-4763-b215-af9d9952f0a9/469a94e2-c301-48cc-be22-a5e3cfb4f6bb.png" alt="ChatGPT for Personal Productivity" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/a0a66440-ac78-47e1-bf7b-0a6faa63b164" title="Concurrent Programming"><img src="https://images.credly.com/size/80x80/images/643d168b-a890-4483-9735-164f3592b652/1cc30a4c-9c04-4dd5-af8d-ce671305a3fa.png" alt="Concurrent Programming" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/24bc2b39-3388-4174-a2e4-2189f13fd440" title="Memory Efficient Java"><img src="https://images.credly.com/size/80x80/images/b33ac1bf-717d-419c-90ef-063b22b3352e/3dfee886-e82b-479e-a979-3dec49e779fb.png" alt="Memory Efficient Java" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
